@@ -27,4 +27,4 @@ public class Bullet {
 
         return new Rectangle(x, y, width, height);
     }
-}   
+}
