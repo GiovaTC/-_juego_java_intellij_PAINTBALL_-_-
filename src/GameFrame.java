@@ -8,7 +8,7 @@ public class GameFrame extends JFrame {
 
         panel = new GamePanel();
 
-     //   this.add(panel);
+        this.add(panel);
 
         this.setTitle("PAINTBALL GAME");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
